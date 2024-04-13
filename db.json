@@ -1,0 +1,44 @@
+{
+    " Luxury cars":[
+        {
+            "id":"1",
+            "name":"G-wagon",
+            "description":"Black in color",
+            "cars_sold":"45",
+            "poster": "https://platinumet.co.uk/wp-content/uploads/Overview/Mercedes-G63-AMG-Black/Mercedes-G63-AMG-Black-Front-1.jpg"
+            
+        },
+        {
+            "id":"2",
+            "name":"Lamborghini",
+            "description":"Blue and orange",
+            "cars_sold":"35",
+            "poster": " https://www.edmunds.com/assets/m/for-sale/ba-zhwua6zx2nla18436/img-1-600x400.jpg"
+           
+        },
+        {
+            "id":"3",
+            "name": "Rolls Royce ghost",
+            "description":"White",
+            "cars_sold":"50",
+            "poster":" https://images.barrons.com/im-227394?width=1280&size=1.77777778"
+            
+        },
+        {
+            "id":"4",
+            "name":"Bugatti",
+            "descrpition":"Blue",
+            "cars_sold":"25",
+            "poster": " https://e0.pxfuel.com/wallpapers/275/380/desktop-wallpaper-bugatti-chiron-158428-fastest-car-in-the-world-bugatti-blue.jpg"
+            
+        },
+        {
+            "id":"5",
+            "name": "Jeep",
+            "description":"Matte black",
+            "cars_sold":"15",
+            "poster":" https://www.desktopbackground.org/download/1400x1050/2014/11/08/852607_jeep-wrangler-black-2013-hd-wallpapers_2000x1333_h.jpg"
+            
+        }
+    ]      
+}
